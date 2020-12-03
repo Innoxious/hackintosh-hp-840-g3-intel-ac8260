@@ -8,15 +8,15 @@
 
 **Things that work (non-exhaustive)**:
 - Gestures
-- *WiFi (2.4Ghz and 5Ghz)
-- *Ethernet
+- ^WiFi (2.4Ghz and 5Ghz)
+- ^Ethernet
 - One external display (I use a dock and it detects both monitors as one and duplicates the displays).
 - Battery indicator
 - Audio 
 - Graphics (video playback is significantly smoother than Ubuntu 20.04 ???) 
 - USB-C port
 
-* WiFi and Ethernet do not perform as well as they would on Windows/Ubuntu.
+^ WiFi and Ethernet do not perform as well as they would on Windows/Ubuntu.
 Some speed stats:
 
 | Device      | Actual (Mbps) | Expected (Mbps) |
