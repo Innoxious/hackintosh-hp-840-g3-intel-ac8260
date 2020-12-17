@@ -3,7 +3,7 @@
 - i7 6600U
 - Intel AC8260
 - Elan Tech touchpad
-- macOS Catalina 11.1
+- macOS Big Sur 11.1
 - Open Core 0.6.3
 
 **Things that work (non-exhaustive)**:
