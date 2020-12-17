@@ -3,18 +3,19 @@
 - i7 6600U
 - Intel AC8260
 - Elan Tech touchpad
-- macOS Catalina 10.15.6
+- macOS Catalina 11.1
 - Open Core 0.6.3
 
 **Things that work (non-exhaustive)**:
 - Gestures
 - ^WiFi (2.4Ghz and 5Ghz)
 - ^Ethernet
-- One external display (I use a dock and it detects both monitors as one and duplicates the displays).
+- Display port
 - Battery indicator
 - Audio 
 - Graphics (video playback is significantly smoother than Ubuntu 20.04 ???) 
 - USB-C port
+- M.2 NVMe SSD
 
 ^ WiFi and Ethernet do not perform as well as they would on Windows/Ubuntu.
 Some speed stats:
@@ -25,7 +26,7 @@ Some speed stats:
 | Ethernet    | 300 ⬇️ 120 ⬆️   | 900 ⬇️ 500 ⬆️     |
 
 **Things that do not work**:
-- Nothing yet...
+- When [docked in 2013 UltraSlim](https://support.hp.com/us-en/product/hp-2013-ultraslim-docking-station/5450893/) only one of the displays are detected by macOS
 
 
 *Happy to help you set this up, open an issue 😃*
