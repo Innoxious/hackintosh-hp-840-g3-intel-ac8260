@@ -17,8 +17,9 @@
 - USB-C port
 - M.2 NVMe SSD
 
-^ WiFi and Ethernet do not perform as well as they would on Windows/Ubuntu.
-Some speed stats:
+^ WiFi and Ethernet do not perform as well as they would on Windows/Ubuntu. See [OpenIntelWireless's FAQ](https://openintelwireless.github.io/itlwm/FAQ.html#performance-sucks)
+
+Speed stats:
 
 | Device      | Actual (Mbps) | Expected (Mbps) |
 |-------------|---------------|-----------------|
