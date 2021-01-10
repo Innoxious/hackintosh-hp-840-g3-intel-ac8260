@@ -4,7 +4,7 @@
 - Intel AC8260
 - Elan Tech touchpad
 - macOS Big Sur 11.1
-- Open Core 0.6.3
+- Open Core 0.6.5
 
 **Things that work (non-exhaustive)**:
 - Gestures
