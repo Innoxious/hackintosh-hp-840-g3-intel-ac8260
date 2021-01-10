@@ -1,6 +1,6 @@
 # HP 840 G3 Hackintosh EFI
 
-- i7 6600U
+- i7 6600U (Intel 6th Gen - Skylake)
 - Intel AC8260
 - Elan Tech touchpad
 - macOS Big Sur 11.1
