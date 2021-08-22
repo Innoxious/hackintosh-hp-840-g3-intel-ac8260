@@ -7,12 +7,12 @@
 - Intel AC8260
 - Elan Tech touchpad
 - macOS Big Sur 11.3
-- Open Core 0.6.5
+- Open Core 0.7.2
 
 **Things that work (non-exhaustive)**:
 - Gestures
-- ^WiFi (2.4Ghz and 5Ghz)
-- ^Ethernet
+- WiFi (2.4Ghz and 5Ghz)
+- Ethernet
 - Display port
 - Battery indicator
 - Audio 
@@ -20,15 +20,6 @@
 - USB-C port
 - M.2 NVMe SSD
 - SD Card reader
-
-^ WiFi and Ethernet do not perform as well as they would on Windows/Ubuntu. See [OpenIntelWireless's FAQ](https://openintelwireless.github.io/itlwm/FAQ.html#performance-sucks)
-
-Speed stats:
-
-| Device      | Actual (Mbps) | Expected (Mbps) |
-|-------------|---------------|-----------------|
-| WiFi (5Ghz) |  50 ⬇️  20 ⬆️   | 400 ⬇️ 200 ⬆️     |
-| Ethernet    | 300 ⬇️ 120 ⬆️   | 900 ⬇️ 500 ⬆️     |
 
 **Things that do not work (also non-exhaustive)**:
 - When [docked in 2013 UltraSlim](https://support.hp.com/us-en/product/hp-2013-ultraslim-docking-station/5450893/) only one of the displays are detected by macOS
