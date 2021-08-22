@@ -6,7 +6,7 @@
 - i7 6600U (Intel 6th Gen - Skylake)
 - Intel AC8260
 - Elan Tech touchpad
-- macOS Big Sur 11.3
+- macOS Big Sur 11.5.2
 - Open Core 0.7.2
 
 **Things that work (non-exhaustive)**:
