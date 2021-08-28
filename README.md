@@ -26,3 +26,10 @@
 
 
 *Happy to help you set this up, open an issue 😃*
+
+## BIOS Setup
+
+![Advanced Menu](https://user-images.githubusercontent.com/5837038/131213423-0961664a-5936-46e2-8259-67dfb999c24b.jpg)
+![Boot Options](https://user-images.githubusercontent.com/5837038/131213437-2262a93e-7c2a-406d-9140-bee39d8f2450.jpg)
+![Secure Boot](https://user-images.githubusercontent.com/5837038/131213435-91f08cef-ba78-45ca-8678-df1a94ba97b3.jpg)
+
