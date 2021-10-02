@@ -22,7 +22,7 @@
 - SD Card reader
 
 **Things that do not work (also non-exhaustive)**:
-- When [docked in 2013 UltraSlim](https://support.hp.com/us-en/product/hp-2013-ultraslim-docking-station/5450893/) only one of the displays are detected by macOS
+- When [docked in 2013 UltraSlim](https://support.hp.com/us-en/product/hp-2013-ultraslim-docking-station/5450893/) only one of the displays are detected by macOS if they are both plugged into the Display Port output.
 
 
 *Happy to help you set this up, open an issue 😃*
