@@ -1065,6 +1065,8 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -1949,12 +1951,57 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlus.efi</string>
-			<string>OpenCanopy.efi</string>
-			<string>OpenRuntime.efi</string>
-			<string>HPFanReset.efi</string>
-			<string>AudioDxe.efi</string>
-		</array>
+  <dict>
+    <key>Arguments</key>
+    <string></string>
+    <key>Comment</key>
+    <string>HFS+ Driver</string>
+    <key>Enabled</key>
+    <true/>
+    <key>Path</key>
+    <string>HfsPlus.efi</string>
+  </dict>
+  <dict>
+    <key>Arguments</key>
+    <string></string>
+    <key>Comment</key>
+    <string>OpenCanopy Driver</string>
+    <key>Enabled</key>
+    <true/>
+    <key>Path</key>
+    <string>OpenCanopy.efi</string>
+  </dict>
+  <dict>
+    <key>Arguments</key>
+    <string></string>
+    <key>Comment</key>
+    <string>OpenRuntime Driver</string>
+    <key>Enabled</key>
+    <true/>
+    <key>Path</key>
+    <string>OpenRuntime.efi</string>
+  </dict>
+  <dict>
+    <key>Arguments</key>
+    <string></string>
+    <key>Comment</key>
+    <string>HPFanReset Driver</string>
+    <key>Enabled</key>
+    <true/>
+    <key>Path</key>
+    <string>HPFanReset.efi</string>
+  </dict>
+  <dict>
+    <key>Arguments</key>
+    <string></string>
+    <key>Comment</key>
+    <string>AudioDxe Driver</string>
+    <key>Enabled</key>
+    <true/>
+    <key>Path</key>
+    <string>AudioDxe.efi</string>
+  </dict>
+</array>
 		<key>Input</key>
 		<dict>
 			<key>KeyFiltering</key>
@@ -2056,12 +2103,16 @@
 			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForceOcWriteFlash</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
 			<true/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
