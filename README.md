@@ -17,7 +17,7 @@
 - Intel AC8260
 - Elan Tech touchpad
 - macOS Monterey 12.0.1
-- Open Core 0.7.5
+- Open Core 0.7.8
 
 **Things that work (non-exhaustive)**:
 
