@@ -16,7 +16,7 @@
 - i7 6600U (Intel 6th Gen - Skylake)
 - Intel AC8260
 - Elan Tech touchpad
-- macOS Monterey 12.0.1
+- macOS Monterey 12.2.1
 - Open Core 0.7.8
 
 **Things that work (non-exhaustive)**:
