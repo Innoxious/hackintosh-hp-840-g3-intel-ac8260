@@ -1,4 +1,4 @@
-# HP 840 G3 Hackintosh EFI - macOS Monterey 12.5
+# HP 840 G3 Hackintosh EFI - macOS Monterey 12.6.1
 
 ![Screenshot - About this Mac](/showcase.png)
 
@@ -16,8 +16,8 @@
 - i7 6600U (Intel 6th Gen - Skylake)
 - Intel AC8260
 - Elan Tech touchpad
-- macOS Monterey 12.5
-- Open Core 0.8.1
+- macOS Monterey 12.6.1
+- Open Core 0.8.5
 
 **Things that work (non-exhaustive)**:
 
@@ -33,7 +33,7 @@
 - USB-C port
 - M.2 NVMe SSD
 - SD Card reader
-- Dual boot with Windows
+- Dual boot with Windows - [Battery info doesn't show #19](https://github.com/Innoxious/hackintosh-hp-840-g3-intel-ac8260/issues/19)
 
 **Things that do not work (also non-exhaustive)**:
 

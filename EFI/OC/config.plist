@@ -1823,8 +1823,6 @@
 				<string>boot-args</string>
 			</array>
 		</dict>
-		<key>LegacyEnable</key>
-		<false/>
 		<key>LegacyOverwrite</key>
 		<false/>
 		<key>LegacySchema</key>
@@ -1973,6 +1971,8 @@
     <string>HFS+ Driver</string>
     <key>Enabled</key>
     <true/>
+		<key>LoadEarly</key>
+		<false/>
     <key>Path</key>
     <string>HfsPlus.efi</string>
   </dict>
@@ -1983,6 +1983,8 @@
     <string>OpenCanopy Driver</string>
     <key>Enabled</key>
     <true/>
+		<key>LoadEarly</key>
+		<false/>
     <key>Path</key>
     <string>OpenCanopy.efi</string>
   </dict>
@@ -1993,6 +1995,8 @@
     <string>OpenRuntime Driver</string>
     <key>Enabled</key>
     <true/>
+		<key>LoadEarly</key>
+		<false/>
     <key>Path</key>
     <string>OpenRuntime.efi</string>
   </dict>
@@ -2003,6 +2007,8 @@
     <string>HPFanReset Driver</string>
     <key>Enabled</key>
     <true/>
+		<key>LoadEarly</key>
+		<false/>
     <key>Path</key>
     <string>HPFanReset.efi</string>
   </dict>
@@ -2013,6 +2019,8 @@
     <string>AudioDxe Driver</string>
     <key>Enabled</key>
     <true/>
+		<key>LoadEarly</key>
+		<false/>
     <key>Path</key>
     <string>AudioDxe.efi</string>
   </dict>
