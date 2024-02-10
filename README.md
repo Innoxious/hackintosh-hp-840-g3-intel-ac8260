@@ -1,4 +1,4 @@
-# HP 840 G3 Hackintosh EFI - macOS Monterey 12.6.6
+# HP 840 G3 Hackintosh EFI - macOS Monterey 12.7.3
 
 ![Screenshot - About this Mac](/showcase.png)
 
@@ -16,7 +16,7 @@
 - i7 6600U (Intel 6th Gen - Skylake)
 - Intel AC8260
 - Elan Tech touchpad
-- macOS Monterey 12.6.6
+- macOS Monterey 12.7.3
 - Open Core 0.9.2
 
 **Things that work (non-exhaustive)**:
